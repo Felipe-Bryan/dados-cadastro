@@ -1,0 +1,18 @@
+export const families: string[] = [
+  'Drinks',
+  'Palha',
+  'EQlibri',
+  'Amendoins',
+  'Doritos',
+  'Ruffles',
+  'Fandangos',
+  'Cheetos',
+  'Cebolitos',
+  'Baconzitos',
+  'Lays',
+  'Sensações',
+  'Clássicos',
+  'Lanchinho',
+  'Stax',
+  'Torcida',
+];
