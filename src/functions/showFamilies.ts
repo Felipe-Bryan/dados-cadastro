@@ -20,7 +20,7 @@ const showFamilies = (array: string[]) => {
               id="collapse-${item}"
               class="accordion-collapse collapse"
               aria-labelledby="heading-${item}"
-              data-bs-parent="#content">
+              data-bs-parent="#homeContent">
               <div class="accordion-body p-0 homeAccordion" id="${item}">
               </div>
             </div>
